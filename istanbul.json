@@ -1,0 +1,13 @@
+{
+  "city": "istanbul",
+  "updatedAt": "2026-02-01T00:10:00+03:00",
+  "currency": "TRY",
+  "unit": "TL/L",
+  "items": [
+    { "name": "Shell", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "shell" },
+    { "name": "Opet", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "opet" },
+    { "name": "BP", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "bp" },
+    { "name": "Petrol Ofisi", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "po" },
+    { "name": "TotalEnergies", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "total" }
+  ]
+}
