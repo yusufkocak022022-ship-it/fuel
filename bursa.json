@@ -1,6 +1,6 @@
 {
   "city": "bursa",
-  "updatedAt": "01-02-2026 06:00",
+  "updatedAt": "02-02-2026 00:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
@@ -11,5 +11,6 @@
     { "name": "TotalEnergies", "gasoline": 56.24, "diesel": 58.38, "lpg": 0, "logo": "total" }
   ]
 }
+
 
 
