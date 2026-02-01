@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-02-01 08:00",
+
+  "cities": {
+    "istanbul_avr": {
+      "name": "İstanbul (Avrupa)",
+      "gasoline": 45.10,
+      "diesel": 44.90,
+      "lpg": 22.45
+    },
+
+    "istanbul_and": {
+      "name": "İstanbul (Anadolu)",
+      "gasoline": 45.30,
+      "diesel": 45.15,
+      "lpg": 22.60
+    },
+
+    "ankara": {
+      "name": "Ankara",
+      "gasoline": 44.80,
+      "diesel": 44.55,
+      "lpg": 22.10
+    },
+
+    "bursa": {
+      "name": "Bursa",
+      "gasoline": 44.95,
+      "diesel": 44.70,
+      "lpg": 22.20
+    },
+
+    "izmir": {
+      "name": "İzmir",
+      "gasoline": 45.20,
+      "diesel": 45.00,
+      "lpg": 22.50
+    },
+
+    "kastamonu": {
+      "name": "Kastamonu",
+      "gasoline": 44.30,
+      "diesel": 44.05,
+      "lpg": 21.90
+    }
+  }
+}
+
