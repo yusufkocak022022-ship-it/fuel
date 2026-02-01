@@ -5,7 +5,7 @@
   "unit": "TL/L",
   "items": [
     { "name": "Shell", "gasoline": 55.45, "diesel": 89.54, "lpg": 69.47, "logo": "shell" },
-    { "name": "Opet", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "opet" },
+    { "name": "Opet", "gasoline": 78.36, "diesel": 46.58, "lpg": 47.47, "logo": "opet" },
     { "name": "BP", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "bp" },
     { "name": "Petrol Ofisi", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "po" },
     { "name": "TotalEnergies", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "total" }
