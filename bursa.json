@@ -1,13 +1,14 @@
 {
   "city": "bursa",
-  "updatedAt": "2026-02-01T00:10:00+03:00",
+  "updatedAt": "01-02-2026 00:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
-    { "name": "Shell", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "shell" },
-    { "name": "Opet", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "opet" },
-    { "name": "BP", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "bp" },
-    { "name": "Petrol Ofisi", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "po" },
-    { "name": "TotalEnergies", "gasoline": 0, "diesel": 0, "lpg": 0, "logo": "total" }
+    { "name": "Shell", "gasoline": 56.28, "diesel": 58.38, "lpg": 30.75, "logo": "shell" },
+    { "name": "Opet", "gasoline": 56.24, "diesel": 58.38, "lpg": 0, "logo": "opet" },
+    { "name": "BP", "gasoline": 56.26, "diesel": 58.38, "lpg": 28.69, "logo": "bp" },
+    { "name": "Petrol Ofisi", "gasoline": 56.26, "diesel": 58.38, "lpg": 28.69, "logo": "po" },
+    { "name": "TotalEnergies", "gasoline": 56.24, "diesel": 58.38, "lpg": 0, "logo": "total" }
   ]
 }
+
