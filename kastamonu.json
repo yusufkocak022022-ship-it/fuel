@@ -1,6 +1,6 @@
 {
   "city": "kastamonu",
-  "updatedAt": "01-02-2026 06:00",
+  "updatedAt": "02-02-2026 00:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
@@ -11,6 +11,7 @@
     { "name": "TotalEnergies", "gasoline": 56.86, "diesel": 59.17, "lpg": 0, "logo": "total" }
   ]
 }
+
 
 
 
