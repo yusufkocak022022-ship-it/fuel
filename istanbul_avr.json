@@ -6,11 +6,12 @@
   "items": [
     { "name": "Shell", "gasoline": 55.35, "diesel": 57.43, "lpg": 31.70, "logo": "shell" },
     { "name": "Opet", "gasoline": 55.23, "diesel": 57.37, "lpg": 0, "logo": "opet" },
-    { "name": "BP", "gasoline": 55.27, "diesel": 57.43, "lpg": 29.29, "logo": "bp" },
-    { "name": "Petrol Ofisi", "gasoline": 55.27, "diesel": 57.43, "lpg": 29.29, "logo": "po" },
-    { "name": "TotalEnergies", "gasoline": 55.23, "diesel": 57.37, "lpg": 0, "logo": "total" }
+    { "name": "BP", "gasoline": 55.34, "diesel": 57.46, "lpg": 30.09, "logo": "bp" },
+    { "name": "Petrol Ofisi", "gasoline": 55.34, "diesel": 57.46, "lpg": 30.09, "logo": "po" },
+    { "name": "TotalEnergies", "gasoline": 55.28, "diesel": 57.38, "lpg": 30.76, "logo": "total" }
   ]
 }
+
 
 
 
