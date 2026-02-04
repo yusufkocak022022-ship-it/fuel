@@ -1,16 +1,17 @@
 {
   "city": "istanbul and.",
-  "updatedAt": "04-02-2026 00:30",
+  "updatedAt": "04-02-2026 13:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
-    { "name": "Shell", "gasoline": 55.17, "diesel": 57.25, "lpg": 31.70, "logo": "shell" },
-    { "name": "Opet", "gasoline": 55.23, "diesel": 57.32, "lpg": 0, "logo": "opet" },
-    { "name": "BP", "gasoline": 55.16, "diesel": 57.28, "lpg": 29.49, "logo": "bp" },
-    { "name": "Petrol Ofisi", "gasoline": 55.16, "diesel": 57.28, "lpg": 29.49, "logo": "po" },
-    { "name": "TotalEnergies", "gasoline": 55.13, "diesel": 57.26, "lpg": 29.23, "logo": "total" }
+    { "name": "Shell", "gasoline": 55.27, "diesel": 57.53, "lpg": 31.70, "logo": "shell" },
+    { "name": "Opet", "gasoline": 55.23, "diesel": 57.53, "lpg": 0, "logo": "opet" },
+    { "name": "BP", "gasoline": 55.19, "diesel": 57.49, "lpg": 29.49, "logo": "bp" },
+    { "name": "Petrol Ofisi", "gasoline": 55.19, "diesel": 57.49, "lpg": 29.49, "logo": "po" },
+    { "name": "TotalEnergies", "gasoline": 55.23, "diesel": 57.52, "lpg": 29.23, "logo": "total" }
   ]
 }
+
 
 
 
