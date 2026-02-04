@@ -1,6 +1,6 @@
 {
   "city": "istanbul avr.",
-  "updatedAt": "04-02-2026 13:30",
+  "updatedAt": "05-02-2026 01:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
@@ -11,6 +11,7 @@
     { "name": "TotalEnergies", "gasoline": 55.38, "diesel": 57.66, "lpg": 30.76, "logo": "total" }
   ]
 }
+
 
 
 
