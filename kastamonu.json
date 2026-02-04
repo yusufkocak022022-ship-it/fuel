@@ -1,16 +1,17 @@
 {
   "city": "kastamonu",
-  "updatedAt": "04-02-2026 00:30",
+  "updatedAt": "04-02-2026 13:30",
   "currency": "TRY",
   "unit": "TL/L",
   "items": [
-    { "name": "Shell", "gasoline": 57.00, "diesel": 59.18, "lpg": 33.12, "logo": "shell" },
-    { "name": "Opet", "gasoline": 57.01, "diesel": 59.24, "lpg": 0, "logo": "opet" },
-    { "name": "BP", "gasoline": 56.99, "diesel": 59.26, "lpg": 30.65, "logo": "bp" },
-    { "name": "Petrol Ofisi", "gasoline": 56.99, "diesel": 59.26, "lpg": 30.65, "logo": "po" },
-    { "name": "TotalEnergies", "gasoline": 56.91, "diesel": 59.18, "lpg": 0, "logo": "total" }
+    { "name": "Shell", "gasoline": 57.10, "diesel": 59.46, "lpg": 33.12, "logo": "shell" },
+    { "name": "Opet", "gasoline": 57.01, "diesel": 59.45, "lpg": 0, "logo": "opet" },
+    { "name": "BP", "gasoline": 57.00, "diesel": 59.46, "lpg": 30.65, "logo": "bp" },
+    { "name": "Petrol Ofisi", "gasoline": 57.00, "diesel": 59.46, "lpg": 30.65, "logo": "po" },
+    { "name": "TotalEnergies", "gasoline": 57.01, "diesel": 59.46, "lpg": 0, "logo": "total" }
   ]
 }
+
 
 
 
